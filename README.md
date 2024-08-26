@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iamthemag.iamthemag" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+👋;+AI+Enthusiast!;+Cloud+Practitioner+Programmer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+👋;+AI+Enthusiast!;+Cloud+Practitioner!+Programmer!;" />
 </h1>
 
 <h3 align="center"><strong>AI Enthusiast | Cloud Practitioner | Technical Support Specialist 🚀</strong></h3>
