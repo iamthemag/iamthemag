@@ -15,7 +15,6 @@
     <br/>
     Currently working on AI, Machine Learning, Generative AI, LLMs & Cloud Computing ✅
     <br/>
-    <strong>For more details, check out my portfolio in the GitHub Profile</strong>
 </div>
 
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
